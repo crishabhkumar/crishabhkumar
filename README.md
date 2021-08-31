@@ -3,8 +3,7 @@
 
 - 🌱 I’m currently in 3rd Year of my B.Tech(IT) from BPPIMT Kolkata
 - 👯 I’m looking to learn DSA as much as i can.
-- 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- :wink:
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
