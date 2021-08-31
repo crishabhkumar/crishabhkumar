@@ -33,7 +33,7 @@
 [html]:https://www.w3schools.com/html/html_css.asp
 [css]:https://www.w3schools.com/html/html_css.asp
 [js]:https://www.w3schools.com/js/default.asp
-[ndejs]:https://nodejs.org/en/
+[nodejs]:https://nodejs.org/en/
 [sql]:https://www.w3schools.com/sql/default.Asp
 [git]:github.com
 [vscode]:https://code.visualstudio.com/
