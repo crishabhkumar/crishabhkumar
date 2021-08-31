@@ -4,8 +4,9 @@
 - 🌱 I’m currently in 3rd Year of my B.Tech(IT) from BPPIMT Kolkata
 - 👯 I’m looking to learn DSA as much as i can.
 - ⚡ Very crazy to contribute in Open source.
-- :relieved: Practice makes a man perfect
+- 😎 Practice makes a man perfect
 
+<br />
 
 ### Connect with me:
 
