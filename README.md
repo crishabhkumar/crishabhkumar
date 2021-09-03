@@ -1,8 +1,10 @@
-### Hi there, I'm Rishabh 👋
-## I'm a Student, Learner , and Entusisatic Developer!!!
+<h1 align="center">Hi 👋, I'm Rishabh Chaudhary</h1>
+<h3 align="center">I'm a Student, Learner , and Entusisatic Developer!!!</h3>
 
-- 🌱 I’m currently in 3rd Year of my B.Tech(IT) from BPPIMT Kolkata
+
+- 🌱 I’m currently in **3rd Year of my B.Tech(IT) from BPPIMT Kolkata.**
 - 👯 I’m looking to learn DSA as much as i can.
+- 📫 How to reach me **crishabhkumar@gmail.com**
 - ⚡ Very crazy to contribute in Open source.
 - 😎 Practice makes a man perfect
 
