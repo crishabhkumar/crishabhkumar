@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Kumar</h1>
-<h3 align="center">I'm a Student, Learner , and Entusisatic Developer!!!</h3>
+<h3 align="center">I'm a Student and Entusisatic Developer!!!</h3>
 
 
 - 🌱 I’m currently in **3rd Year of my B.Tech(IT) from BPPIMT Kolkata.**
@@ -25,4 +25,11 @@
 <a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/Language%20Logos/icons8-java-96.png" alt="Java" height="45" width="45" /></a>
 <a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/Language%20Logos/icons8-git-96.png" alt="Git" height="45" width="45" /></a>
 </p>
+<br />
+
+<h2 align="left">My Stats:</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crishabhkumar&show_icons=true&locale=en&layout=compact" alt="crishabhkumar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=crishabhkumar&show_icons=true&locale=en" alt="crishabhkumar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crishabhkumar&" alt="crishabhkumar" /></p>
+
 
