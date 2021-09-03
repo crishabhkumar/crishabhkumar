@@ -12,11 +12,10 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/rishabh-kumar-0801a310a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rishabh Linkedin" height="30" width="40" /></a>
-<a href = "https://twitter.com/rishabh_sawarn" target = "blank"><img align = "center" src=
-<a href="https://www.facebook.com/rk1102937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rishabh Facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rishabh.sawarn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rishabh Instagram" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/rishabh-kumar-0801a310a/" target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/logo/icons8-linkedin-64.png" alt="Rishabh Linkedin" height="45" width="45" /></a>
+<a href = "https://twitter.com/rishabh_sawarn" target = "blank"><img align = "center" src="https://github.com/crishabhkumar/crishabhkumar/blob/logo/icons8-twitter-64.png" alt = "Rishabh Twitter" height = "45" width = "45" /></a>
+<a href="https://www.facebook.com/rk1102937" target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/logo/icons8-facebook-64.png" alt="Rishabh Facebook" height="45" width="45" /></a>
+
 <br />
 
 ### Languages and Tools:
