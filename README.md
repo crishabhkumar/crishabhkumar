@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishabh Chaudhary</h1>
+<h1 align="center">Hi 👋, I'm Rishabh Kumar</h1>
 <h3 align="center">I'm a Student, Learner , and Entusisatic Developer!!!</h3>
 
 
@@ -10,11 +10,12 @@
 
 <br />
 
-### Connect with me:
-
-[<img align="left" alt="Rishabh's | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Rishabh's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Rishabh's | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+[<img align = "left" alt="Rishabh's | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align = "left" alt = "Rishabh's | Facebook" width = "22px" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][facebook]
+[<img align = "left" alt="Rishabh's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align = "left" alt="Rishabh's | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -32,7 +33,7 @@
 
 
 
-
+[facebook]:https://www.facebook.com/rk1102937
 [html]:https://www.w3schools.com/html/html_css.asp
 [css]:https://www.w3schools.com/html/html_css.asp
 [js]:https://www.w3schools.com/js/default.asp
