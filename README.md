@@ -8,16 +8,16 @@
 - ⚡ Very crazy to contribute in Open source.
 - 😎 Practice makes a man perfect.
 <br />
-<h2 align="left">Connect with me:</h2>
-<p align="left">
+<h2 align="center">Connect with me:</h2>
+<p align="center">
 <a href="https://www.linkedin.com/in/rishabh-kumar-0801a310a/" target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/logo/icons8-linkedin-64.png" alt="Rishabh Linkedin" height="45" width="45" /></a>
 <a href = "https://twitter.com/rishabh_sawarn" target = "blank"><img align = "center" src="https://github.com/crishabhkumar/crishabhkumar/blob/logo/icons8-twitter-64.png" alt = "Rishabh Twitter" height = "45" width = "45" /></a>
 <a href="https://www.facebook.com/rk1102937" target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/logo/icons8-facebook-64.png" alt="Rishabh Facebook" height="45" width="45" /></a>
 
 <br />
   
-<h2 align="left">Languages and Tools:</h2>
-<p align = "left"><a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/Language%20Logos/icons8-c-96.png" alt="C" height="45" width="45" /></a>
+<h2 align="center">Languages and Tools:</h2>
+<p align = "center"><a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/Language%20Logos/icons8-c-96.png" alt="C" height="45" width="45" /></a>
 <a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/Language%20Logos/icons8-c%2B%2B-96.png" alt="C++" height="45" width="45" /></a>
 <a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/Language%20Logos/icons8-html-96.png" alt="Html" height="45" width="45" /></a>
 <a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/Language%20Logos/icons8-css-96.png" alt="Css" height="45" width="45" /></a>
@@ -27,8 +27,8 @@
 </p>
 <br />
 
-<h2 align="left">My Stats:</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crishabhkumar&show_icons=true&locale=en&layout=compact" alt="crishabhkumar" /></p>
+<h2 align="center">My Stats:</h2>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crishabhkumar&show_icons=true&locale=en&layout=compact" alt="crishabhkumar" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=crishabhkumar&show_icons=true&locale=en" alt="crishabhkumar" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crishabhkumar&" alt="crishabhkumar" /></p>
 
