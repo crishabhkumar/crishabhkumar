@@ -10,13 +10,12 @@
 
 <br />
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
-[<img align = "left" alt="Rishabh's | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align = "left" alt = "Rishabh's | Facebook" width = "22px" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][facebook]
-[<img align = "left" alt="Rishabh's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align = "left" alt="Rishabh's | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<a href="https://www.linkedin.com/in/rishabh-kumar-0801a310a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rishabh Linkedin" height="30" width="40" /></a>
+<a href="https://fb.com/debangsh bose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="debangsh bose" height="30" width="40" /></a>
+<a href="https://instagram.com/debangsh_bose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debangsh_bose" height="30" width="40" /></a>
+</p>
 <br />
 
 ### Languages and Tools:
