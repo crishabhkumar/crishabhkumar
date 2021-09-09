@@ -23,13 +23,19 @@
 <a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/Language%20Logos/icons8-css-96.png" alt="Css" height="45" width="45" /></a>
 <a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/Language%20Logos/icons8-python-96.png" alt="Python" height="45" width="45" /></a>
 <a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/Language%20Logos/icons8-java-96.png" alt="Java" height="45" width="45" /></a>
+<a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/icons8-react-100.png" alt="React" height="45" width="45" /></a>
 <a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/Language%20Logos/icons8-git-96.png" alt="Git" height="45" width="45" /></a>
 </p>
 <br />
 
 <h2 align="center">My Stats:</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crishabhkumar&show_icons=true&locale=en&layout=compact&theme=radical" alt="crishabhkumar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crishabhkumar&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="crishabhkumar" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=crishabhkumar&show_icons=true&locale=en&theme=onedark" alt="crishabhkumar" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crishabhkumar&theme=dracula" alt="crishabhkumar" /></p>
+
+
+<h2 align="center">My Contrubution Graph:</h2>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=crishabhkumar&bg_color=0d0c0d&color=e137d6&line=5daddf&point=99eb1e&area=true&hide_border=true" alt="crishabhkumar" /></p>
+
 
 
