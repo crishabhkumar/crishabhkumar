@@ -28,8 +28,8 @@
 <br />
 
 <h2 align="center">My Stats:</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crishabhkumar&show_icons=true&locale=en&layout=compact" alt="crishabhkumar" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=crishabhkumar&show_icons=true&locale=en" alt="crishabhkumar" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crishabhkumar&" alt="crishabhkumar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crishabhkumar&show_icons=true&locale=en&layout=compact&theme=radical" alt="crishabhkumar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=crishabhkumar&show_icons=true&locale=en&theme=onedark" alt="crishabhkumar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crishabhkumar&theme=dracula" alt="crishabhkumar" /></p>
 
 
