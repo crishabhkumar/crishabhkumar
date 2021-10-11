@@ -3,10 +3,9 @@
 
 
 - 🌱 I’m currently in **3rd Year of my B.Tech(IT) from BPPIMT Kolkata.**
-- 👯 I’m looking to learn DSA as much as i can.
-- 📫 How to reach me **crishabhkumar@gmail.com**
-- ⚡ Very crazy to contribute in Open source.
-- 😎 Practice makes a man perfect.
+- 👯 Currently practicing DSA in JAVA and learnig clound technologies.
+- 📫 How to reach me _**crishabhkumar@gmail.com**_
+- ⚡ Enthiuastic to contribute in Open source.
 <br />
 <h2 align="center">Connect with me:</h2>
 <p align="center">
