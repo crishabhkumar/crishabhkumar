@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Student and Entusisatic Developer!!!</h3>
 
 
-- 🌱 I’m currently in **3rd Year of my B.Tech(IT) from BPPIMT Kolkata.**
+- 🌱 I’m pursuing B.Tech(IT) from BPPIMT Kolkata.**
 - 👯 Currently practicing DSA in JAVA and learnig clound technologies.
 - 📫 How to reach me _**crishabhkumar@gmail.com**_
 - ⚡ Enthiuastic to contribute in Open source.
