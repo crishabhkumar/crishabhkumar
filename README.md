@@ -2,8 +2,8 @@
 <h3 align="center">I'm a Student and Entusisatic Developer!!!</h3>
 
 
-- 🌱 I’m pursuing B.Tech(IT) from BPPIMT Kolkata.**
-- 👯 Currently practicing DSA in JAVA and learnig clound technologies.
+- 🌱 I’m working as an Associate Programmer at ICRA Analytics Ltd (A Group ICRA Company).**
+- 👯 Currently working in .Net,C#,Oracle,MS SQL Server, Visual Studio 2017 & Learning React.
 - 📫 How to reach me _**crishabhkumar@gmail.com**_
 - ⚡ Enthiuastic to contribute in Open source.
 <br />
@@ -17,10 +17,8 @@
   
 <h2 align="center">Languages and Tools:</h2>
 <p align = "center"><a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/Language%20Logos/icons8-c-96.png" alt="C" height="45" width="45" /></a>
-<a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/Language%20Logos/icons8-c%2B%2B-96.png" alt="C++" height="45" width="45" /></a>
 <a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/Language%20Logos/icons8-html-96.png" alt="Html" height="45" width="45" /></a>
 <a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/Language%20Logos/icons8-css-96.png" alt="Css" height="45" width="45" /></a>
-<a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/Language%20Logos/icons8-python-96.png" alt="Python" height="45" width="45" /></a>
 <a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/Language%20Logos/icons8-java-96.png" alt="Java" height="45" width="45" /></a>
 <a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/icons8-react-100.png" alt="React" height="45" width="45" /></a>
 <a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/Language%20Logos/icons8-git-96.png" alt="Git" height="45" width="45" /></a>
