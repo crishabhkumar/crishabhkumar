@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Student and Entusisatic Developer!!!</h3>
 
 
-- 🌱 I’m working as a Software Developer at HCLTech**
+- 🌱 I’m working as a **Software Developer at HCLTech**
 - 👯 Currently working in .Net,C#,Oracle,MS SQL Server, Visual Studio 2017 & Learning React.
 - 📫 How to reach me _**crishabhkumar@gmail.com**_
 - ⚡ Enthiuastic to contribute in Open source.
