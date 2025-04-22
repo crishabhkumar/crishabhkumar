@@ -1,39 +1,80 @@
 <h1 align="center">Hi 👋, I'm Rishabh Kumar</h1>
-<h3 align="center">I'm a Student and Entusisatic Developer!!!</h3>
+<h3 align="center">🚀 Software Developer | 💻 Tech Enthusiast | 🌟 Open Source Contributor</h3>
 
+---
 
-- 🌱 I’m working as a **Software Developer at HCLTech**
-- 👯 Currently working in .Net,C#,Oracle,MS SQL Server, Visual Studio 2017 & Learning React.
-- 📫 How to reach me _**crishabhkumar@gmail.com**_
-- ⚡ Enthiuastic to contribute in Open source.
-<br />
-<h2 align="center">Connect with me:</h2>
+### 🌟 About Me:
+- 🌱 **Software Developer at HCLTech**, passionate about building scalable and efficient solutions.
+- 👨‍💻 Currently working with **.Net Core , C#, Oracle, MS SQL Server, Visual Studio 2017**, and exploring **React**.
+- 🎯 Focused on **Full-Stack Development** and **Cloud Technologies**.
+- 📫 Reach me at: **[crishabhkumar@gmail.com](mailto:crishabhkumar@gmail.com)**.
+- ⚡ Fun Fact: I believe **"Every line of code tells a story!"**.
+
+---
+
+### 🌐 Connect with Me:
 <p align="center">
-<a href="https://www.linkedin.com/in/rishabh-kumar-0801a310a/" target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/logo/icons8-linkedin-64.png" alt="Rishabh Linkedin" height="45" width="45" /></a>
-<a href = "https://twitter.com/rishabh_sawarn" target = "blank"><img align = "center" src="https://github.com/crishabhkumar/crishabhkumar/blob/logo/icons8-twitter-64.png" alt = "Rishabh Twitter" height = "45" width = "45" /></a>
-<a href="https://www.facebook.com/rk1102937" target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/logo/icons8-facebook-64.png" alt="Rishabh Facebook" height="45" width="45" /></a>
-
-<br />
-  
-<h2 align="center">Languages and Tools:</h2>
-<p align = "center"><a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/Language%20Logos/icons8-c-96.png" alt="C" height="45" width="45" /></a>
-<a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/Language%20Logos/icons8-html-96.png" alt="Html" height="45" width="45" /></a>
-<a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/Language%20Logos/icons8-css-96.png" alt="Css" height="45" width="45" /></a>
-<a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/Language%20Logos/icons8-java-96.png" alt="Java" height="45" width="45" /></a>
-<a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/icons8-react-100.png" alt="React" height="45" width="45" /></a>
-<a target="blank"><img align="center" src="https://github.com/crishabhkumar/crishabhkumar/blob/main/Language%20Logos/icons8-git-96.png" alt="Git" height="45" width="45" /></a>
+  <a href="https://www.linkedin.com/in/rishabh-kumar-chaudhary-0801a310a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/rishabh_sawarn" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.facebook.com/rk1102937" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
-<br />
 
-<h2 align="center">My Stats:</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crishabhkumar&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="crishabhkumar" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=crishabhkumar&show_icons=true&locale=en&theme=onedark" alt="crishabhkumar" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crishabhkumar&theme=dracula" alt="crishabhkumar" /></p>
+---
 
+### 🛠️ Languages and Tools:
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
+  <img src="https://img.shields.io/badge/API-02569B?style=for-the-badge&logo=swagger&logoColor=white" alt="API" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
 
-<h2 align="center">My Contrubution Graph:</h2>
-<h3 align="center">Last 31Days</h3>
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=crishabhkumar&bg_color=0d0c0d&color=e137d6&line=5daddf&point=99eb1e&area=true&hide_border=true" alt="crishabhkumar" /></p>
+---
 
+### 📊 My Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crishabhkumar&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=crishabhkumar&show_icons=true&locale=en&theme=onedark" alt="GitHub Stats" />
+</p>
 
+---
 
+### 💡 Fun Fact:
+> "Code is like humor. When you have to explain it, it’s bad." 😄
+
+---
+
+### 🚀 My Goals:
+- 🌐 Build impactful **Open Source Projects**.
+- 📚 Learn and master **Cloud Computing** and **DevOps**.
+- 🤝 Collaborate with developers worldwide to create innovative solutions.
+
+---
+
+### 📝 Featured Projects:
+<p align="center">
+  <a href="https://github.com/crishabhkumar/project1" target="_blank">
+    <img src="https://img.shields.io/badge/-Project%201-blue?style=for-the-badge" alt="Project 1" />
+  </a>
+  <a href="https://github.com/crishabhkumar/project2" target="_blank">
+    <img src="https://img.shields.io/badge/-Project%202-green?style=for-the-badge" alt="Project 2" />
+  </a>
+  <a href="https://github.com/crishabhkumar/project3" target="_blank">
+    <img src="https://img.shields.io/badge/-Project%203-orange?style=for-the-badge" alt="Project 3" />
+  </a>
+</p>
