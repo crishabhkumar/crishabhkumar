@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rishabh Kumar</h1>
-<h3 align="center">🚀 Software Developer | 💻 Tech Enthusiast | 🌟 Open Source Contributor</h3>
-
+<h3 align="center">🚀 Software Developer | 💻 Tech Enthusiast | 
 ---
 
 ### 🌟 About Me:
 - 🌱 **Software Developer at HCLTech**, passionate about building scalable and efficient solutions.
-- 👨‍💻 Currently working with **.Net Core , C#, Oracle, MS SQL Server, Visual Studio 2017**, and exploring **React**.
+- 👨‍💻 Currently working with **C#, .Net Core, .Net Framework, Web APIs, React, Oracle, MS SQL Server, Azure, AWS**.
 - 🎯 Focused on **Full-Stack Development** and **Cloud Technologies**.
 - 📫 Reach me at: **[crishabhkumar@gmail.com](mailto:crishabhkumar@gmail.com)**.
 - ⚡ Fun Fact: I believe **"Every line of code tells a story!"**.
@@ -44,37 +43,8 @@
 
 ---
 
-### 📊 My Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crishabhkumar&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crishabhkumar&show_icons=true&locale=en&theme=onedark" alt="GitHub Stats" />
-</p>
-
----
-
 ### 💡 Fun Fact:
 > "Code is like humor. When you have to explain it, it’s bad." 😄
 
 ---
 
-### 🚀 My Goals:
-- 🌐 Build impactful **Open Source Projects**.
-- 📚 Learn and master **Cloud Computing** and **DevOps**.
-- 🤝 Collaborate with developers worldwide to create innovative solutions.
-
----
-
-### 📝 Featured Projects:
-<p align="center">
-  <a href="https://github.com/crishabhkumar/project1" target="_blank">
-    <img src="https://img.shields.io/badge/-Project%201-blue?style=for-the-badge" alt="Project 1" />
-  </a>
-  <a href="https://github.com/crishabhkumar/project2" target="_blank">
-    <img src="https://img.shields.io/badge/-Project%202-green?style=for-the-badge" alt="Project 2" />
-  </a>
-  <a href="https://github.com/crishabhkumar/project3" target="_blank">
-    <img src="https://img.shields.io/badge/-Project%203-orange?style=for-the-badge" alt="Project 3" />
-  </a>
-</p>
